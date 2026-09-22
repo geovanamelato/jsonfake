@@ -12,4 +12,4 @@
   {"id": 3, "nome": "evento03", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00003", "complemento": "texto", "bairro": "bairro03", "cidade": "cidade03", "estado": "estado03", "cep": "00000000", "pais": "pais03"},
   {"id": 4, "nome": "evento04", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00004", "complemento": "texto", "bairro": "bairro04", "cidade": "cidade04", "estado": "estado04", "cep": "00000000", "pais": "pais04"},
   {"id": 5, "nome": "evento05", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00005", "complemento": "texto", "bairro": "bairro05", "cidade": "cidade05", "estado": "estado05", "cep": "00000000", "pais": "pais05"}
-},
+}
