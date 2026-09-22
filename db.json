@@ -1,0 +1,22 @@
+{
+"usuarios": {
+    {"id": 1, "nome": "usuario1", "senha": "8", "cpf": "11111111111","email": "usuario1@gmail.com"},
+    {"id": 2, "nome": "usuario2", "senha": "8", "cpf": "11111111111","email": "usuario2@gmail.com"},
+    {"id": 3, "nome": "usuario3", "senha": "8", "cpf": "11111111111","email": "usuario3@gmail.com"},
+    {"id": 4, "nome": "usuario4", "senha": "8", "cpf": "11111111111","email": "usuario4@gmail.com"},
+    {"id": 5, "nome": "usuario5", "senha": "8", "cpf": "11111111111","email": "usuario5@gmail.com"}
+},
+"eventos": {
+  {"id": 1, "nome": "evento01", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00001", "complemento": "texto", "bairro": "bairro01", "cidade": "cidade01", "estado": "estado01", "cep": "00000000", "pais": "pais01"}, 
+  {"id": 2, "nome": "evento02", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00002", "complemento": "texto", "bairro": "bairro02", "cidade": "cidade02", "estado": "estado02", "cep": "00000000", "pais": "pais02"},
+  {"id": 3, "nome": "evento03", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00003", "complemento": "texto", "bairro": "bairro03", "cidade": "cidade03", "estado": "estado03", "cep": "00000000", "pais": "pais03"},
+  {"id": 4, "nome": "evento04", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00004", "complemento": "texto", "bairro": "bairro04", "cidade": "cidade04", "estado": "estado04", "cep": "00000000", "pais": "pais04"},
+  {"id": 5, "nome": "evento05", "descricao":"texto", "data": "00000000", "horario": "0000", "capacidade": "0000", "preco": "R$0000", "tipoevento": "pago", "status": "aberto", "lougradouro": "00005", "complemento": "texto", "bairro": "bairro05", "cidade": "cidade05", "estado": "estado05", "cep": "00000000", "pais": "pais05"}
+},
+"categorias": {
+  {"id": 1, "nome": "categoria01"},
+  {"id": 2, "nome": "categoria02"},
+  {"id": 3, "nome": "categoria03"},
+  {"id": 4, "nome": "categoria04"},
+  {"id": 5, "nome": "categoria05"}
+},
