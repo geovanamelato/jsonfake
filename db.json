@@ -10,5 +10,5 @@
     { "id": 2, "nome": "Educacao", "status": true },
     { "id": 3, "nome": "Esporte", "status": true },
     { "id": 4, "nome": "Cultura", "status": false }
-  ],
+  ]
 }
