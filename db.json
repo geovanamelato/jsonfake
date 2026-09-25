@@ -19,11 +19,11 @@
     { "id": 4, "nome": "Evento 4", "descricao": "Descricao do evento 4", "imagem": "evento4.jpg", "data": "2026-12-05", "horario": "20:00", "capacidade": 80, "preco": 45.00, "tipoEvento": "Pago", "status": "excluido", "logradouro": "Rua D", "complemento": "", "bairro": "Centro", "cidade": "Juiz de Fora", "estado": "MG", "cep": "36010-000", "pais": "Brasil", "inicioInscricao": "2026-10-01", "fimInscricao": "2026-11-30", "idCategoria": 4, "idUsuario": 2 }
   ],
   "inscricoes": [
-    { "id": 1, "dataInscricao": "2026-09-10", "status": "confirmada", "idUsuario": 3, "idEvento": 1 },
-    { "id": 2, "dataInscricao": "2026-09-12", "status": "confirmada", "idUsuario": 4, "idEvento": 1 },
-    { "id": 3, "dataInscricao": "2026-09-15", "status": "pendente", "idUsuario": 5, "idEvento": 2 },
-    { "id": 4, "dataInscricao": "2026-08-05", "status": "cancelada", "idUsuario": 3, "idEvento": 3 },
-    { "id": 5, "dataInscricao": "2026-09-20", "status": "confirmada", "idUsuario": 4, "idEvento": 2 }
+    {"id": 1, "dataInscricao": "2026-09-10", "status": "confirmada", "idUsuario": 3, "idEvento": 1 },
+    {"id": 2, "dataInscricao": "2026-09-12", "status": "confirmada", "idUsuario": 4, "idEvento": 1 },
+    {"id": 3, "dataInscricao": "2026-09-15", "status": "pendente", "idUsuario": 5, "idEvento": 2 },
+    {"id": 4, "dataInscricao": "2026-08-05", "status": "cancelada", "idUsuario": 3, "idEvento": 3 },
+    {"id": 5, "dataInscricao": "2026-09-20", "status": "confirmada", "idUsuario": 4, "idEvento": 2 }
   ],
   "pagamentos": [
     { "id": 1, "valorTotal": 30.00, "status": "aprovado", "formaPagamento": "pix", "idInscricao": 3 },
