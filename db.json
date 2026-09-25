@@ -22,5 +22,5 @@
     { "id": 2, "dataInscricao": "2026-09-12", "status": "confirmada", "idUsuario": 4, "idEvento": 1 },
     { "id": 3, "dataInscricao": "2026-09-15", "status": "pendente", "idUsuario": 5, "idEvento": 2 },
     { "id": 4, "dataInscricao": "2026-08-05", "status": "cancelada", "idUsuario": 3, "idEvento": 3 }
-  ]
+  ],
 }
