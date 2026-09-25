@@ -24,20 +24,5 @@
     {"id": 3, "dataInscricao": "2026-09-15", "status": "pendente", "idUsuario": 5, "idEvento": 2 },
     {"id": 4, "dataInscricao": "2026-08-05", "status": "cancelada", "idUsuario": 3, "idEvento": 3 },
     {"id": 5, "dataInscricao": "2026-09-20", "status": "confirmada", "idUsuario": 4, "idEvento": 2 }
-  ],
-  "pagamentos": [
-    { "id": 1, "valorTotal": 30.00, "status": "aprovado", "formaPagamento": "pix", "idInscricao": 3 },
-    { "id": 2, "valorTotal": 30.00, "status": "aprovado", "formaPagamento": "cartao", "idInscricao": 5 }
-  ],
-  "cartoes": [
-    { "id": 1, "numCartao": "1111222233334444", "validade": "12/28", "cvv": "123", "parcelas": 1, "idPagamento": 2 }
-  ],
-  "pixs": [
-    { "id": 1, "qrcode": "00020126580014BR.GOV.BCB.PIX", "codigo": "GOEVENT-PIX-00001", "idPagamento": 1 }
-  ],
-  "notificacoes": [
-    { "id": 1, "mensagem": "texto", "data": "2026-09-10", "lida": true, "idUsuario": 3 },
-    { "id": 2, "mensagem": "texto", "data": "2026-09-12", "lida": false, "idUsuario": 4 },
-    { "id": 3, "mensagem": "texto", "data": "2026-09-22", "lida": false, "idUsuario": 2 }
   ]
 }
