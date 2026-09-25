@@ -3,8 +3,7 @@
     { "id": 1, "nome": "Usuario 1", "email": "usuario1@email.com", "cpf": "11111111111", "senha": "123456", "admin": true },
     { "id": 2, "nome": "Usuario 2", "email": "usuario2@email.com", "cpf": "22222222222", "senha": "123456", "admin": true },
     { "id": 3, "nome": "Usuario 3", "email": "usuario3@email.com", "cpf": "33333333333", "senha": "123456", "admin": false },
-    { "id": 4, "nome": "Usuario 4", "email": "usuario4@email.com", "cpf": "44444444444", "senha": "123456", "admin": false },
-    { "id": 5, "nome": "Usuario 5", "email": "usuario5@email.com", "cpf": "55555555555", "senha": "123456", "admin": false }
+    { "id": 4, "nome": "Usuario 4", "email": "usuario4@email.com", "cpf": "44444444444", "senha": "123456", "admin": false }
   ],
   "categorias": [
     { "id": 1, "nome": "Tecnologia", "status": true },
@@ -22,7 +21,6 @@
     {"id": 1, "dataInscricao": "2026-09-10", "status": "confirmada", "idUsuario": 3, "idEvento": 1 },
     {"id": 2, "dataInscricao": "2026-09-12", "status": "confirmada", "idUsuario": 4, "idEvento": 1 },
     {"id": 3, "dataInscricao": "2026-09-15", "status": "pendente", "idUsuario": 5, "idEvento": 2 },
-    {"id": 4, "dataInscricao": "2026-08-05", "status": "cancelada", "idUsuario": 3, "idEvento": 3 },
-    {"id": 5, "dataInscricao": "2026-09-20", "status": "confirmada", "idUsuario": 4, "idEvento": 2 }
+    {"id": 4, "dataInscricao": "2026-08-05", "status": "cancelada", "idUsuario": 3, "idEvento": 3 }
   ]
 }
