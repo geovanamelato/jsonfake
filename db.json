@@ -1,20 +1,26 @@
 {
   "usuarios": [
-    { "id": 1, "nome": "Usuario 1", "email": "usuario1@email.com", "cpf": "11111111111", "senha": "123456", "admin": true },
-    { "id": 2, "nome": "Usuario 2", "email": "usuario2@email.com", "cpf": "22222222222", "senha": "123456", "admin": true },
-    { "id": 3, "nome": "Usuario 3", "email": "usuario3@email.com", "cpf": "33333333333", "senha": "123456", "admin": false },
-    { "id": 4, "nome": "Usuario 4", "email": "usuario4@email.com", "cpf": "44444444444", "senha": "123456", "admin": false }
+    { "id": 1, "nome": "usuario 1", "email": "usuario1@email.com", "cpf": "11111111111", "senha": "1", "admin": true },
+    { "id": 2, "nome": "usuario 2", "email": "usuario2@email.com", "cpf": "22222222222", "senha": "1", "admin": true },
+    { "id": 3, "nome": "usuario 3", "email": "usuario3@email.com", "cpf": "33333333333", "senha": "1", "admin": false },
+    { "id": 4, "nome": "usuario 4", "email": "usuario4@email.com", "cpf": "44444444444", "senha": "1", "admin": false }
   ],
   "categorias": [
-    { "id": 1, "nome": "Tecnologia", "status": true },
-    { "id": 2, "nome": "Educacao", "status": true },
-    { "id": 3, "nome": "Esporte", "status": true },
-    { "id": 4, "nome": "Cultura", "status": false }
+    { "id": 1, "nome": "categoria a", "status": true },
+    { "id": 2, "nome": "categoria 1", "status": true },
+    { "id": 3, "nome": "categoria b", "status": true },
+    { "id": 4, "nome": "categoria 2 ", "status": false }
   ],
   "eventos": [
-    { "id": 1, "nome": "Evento 1", "descricao": "Descricao do evento 1", "imagem": "evento1.jpg", "data": "2026-10-10", "horario": "19:00", "capacidade": 100, "preco": 0, "tipoEvento": "Gratuito", "status": "aberto", "logradouro": "Rua A", "complemento": "", "bairro": "Centro", "cidade": "Juiz de Fora", "estado": "MG", "cep": "36000-000", "pais": "Brasil", "inicioInscricao": "2026-09-01", "fimInscricao": "2026-10-05", "idCategoria": 1, "idUsuario": 1 },
-    { "id": 2, "nome": "Evento 2", "descricao": "Descricao do evento 2", "imagem": "evento2.jpg", "data": "2026-11-15", "horario": "14:00", "capacidade": 50, "preco": 30.00, "tipoEvento": "Pago", "status": "aberto", "logradouro": "Rua B", "complemento": "Sala 2", "bairro": "Bom Pastor", "cidade": "Juiz de Fora", "estado": "MG", "cep": "36021-000", "pais": "Brasil", "inicioInscricao": "2026-09-10", "fimInscricao": "2026-11-10", "idCategoria": 2, "idUsuario": 2 },
-    { "id": 3, "nome": "Evento 3", "descricao": "Descricao do evento 3", "imagem": "evento3.jpg", "data": "2026-08-20", "horario": "09:00", "capacidade": 200, "preco": 0, "tipoEvento": "Gratuito", "status": "fechado", "logradouro": "Rua C", "complemento": "", "bairro": "Sao Mateus", "cidade": "Juiz de Fora", "estado": "MG", "cep": "36025-000", "pais": "Brasil", "inicioInscricao": "2026-07-01", "fimInscricao": "2026-08-15", "idCategoria": 3, "idUsuario": 1 },
-    { "id": 4, "nome": "Evento 4", "descricao": "Descricao do evento 4", "imagem": "evento4.jpg", "data": "2026-12-05", "horario": "20:00", "capacidade": 80, "preco": 45.00, "tipoEvento": "Pago", "status": "excluido", "logradouro": "Rua D", "complemento": "", "bairro": "Centro", "cidade": "Juiz de Fora", "estado": "MG", "cep": "36010-000", "pais": "Brasil", "inicioInscricao": "2026-10-01", "fimInscricao": "2026-11-30", "idCategoria": 4, "idUsuario": 2 }
+    { "id": 1, "nome": "evento 1", "descricao": "descricao", "imagem": "foto", "data": "00-00-0000", "horario": "00:00", "capacidade": 100, "preco": 0, "tipoEvento": "gratuito", "status": "aberto", "logradouro": "rua A", "complemento": "", "bairro": "Centro", "cidade": "Juiz de Fora", "estado": "MG", "cep": "00000-000", "pais": "Brasil", "inicioInscricao": "00-00-0000", "fimInscricao": "00-00-0000", "idCategoria": 1, "idUsuario": 1 },
+    { "id": 2, "nome": "evento 2", "descricao": "descricao", "imagem": "foto", "data": "00-00-0000", "horario": "00:00", "capacidade": 50, "preco": 0, "tipoEvento": "gratuito", "status": "fechado", "logradouro": "rua B", "complemento": "se tiver", "bairro": "Bom Jardim", "cidade": "Juiz de Fora", "estado": "MG", "cep": "00000-000", "pais": "Brasil", "inicioInscricao": "00-00-0000", "fimInscricao": "00-00-0000", "idCategoria": 2, "idUsuario": 2 },
+    { "id": 3, "nome": "evento 3", "descricao": "descricao", "imagem": "foto", "data": "00-00-0000", "horario": "00:00", "capacidade": 200, "preco": 30, "tipoEvento": "pago", "status": "aberto", "logradouro": "rua C", "complemento": "", "bairro": "Sao Mateus", "cidade": "Juiz de Fora", "estado": "MG", "cep": "00000-000", "pais": "Brasil", "inicioInscricao": "00-00-0000", "fimInscricao": "00-00-0000", "idCategoria": 3, "idUsuario": 1 },
+    { "id": 4, "nome": "evento 4", "descricao": "descricao", "imagem": "foto", "data": "00-00-0000", "horario": "00:00", "capacidade": 80, "preco": 45, "tipoEvento": "pago", "status": "excluido", "logradouro": "rua D", "complemento": "", "bairro": "Fabrica", "cidade": "Juiz de Fora", "estado": "MG", "cep": "00000-000", "pais": "Brasil", "inicioInscricao": "00-00-0000", "fimInscricao": "00-00-0000", "idCategoria": 4, "idUsuario": 2 }
+  ],
+  "inscricoes": [
+    { "id": 1, "dataInscricao": "00-00-0000", "status": "confirmada", "idUsuario": 1, "idEvento": 1 },
+    { "id": 2, "dataInscricao": "00-00-0000", "status": "confirmada", "idUsuario": 2, "idEvento": 4 },
+    { "id": 3, "dataInscricao": "00-00-0000", "status": "pendente", "idUsuario": 3, "idEvento": 2 },
+    { "id": 4, "dataInscricao": "00-00-0000", "status": "cancelada", "idUsuario": 4, "idEvento": 3 }
   ]
 }
